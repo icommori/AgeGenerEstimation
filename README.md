@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/AI-TFLite%20%2B%20MLKit-red.svg" alt="AI">
 </div>
 
+> [!IMPORTANT]
+> **This project is for research / demo purpose only.**
+
 ---
 
 ## 📖 Overview
